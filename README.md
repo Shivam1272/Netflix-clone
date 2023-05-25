@@ -1,9 +1,62 @@
-# netflix-clone
-Hey there, I am shivam Patel. 
-I built responsive Netflix UI using react js for frontend.
-A fetched Movie Data using API provided by "TMDB".
-This Application can be used to see latest series and movie with their trailer and movie detail.
-For Movie Data i used "THE MOVIE DATABASE".
-Checkout Live Link for this project: https://shivam-netflixclone.netlify.app/
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/96972819/226835942-56590e67-f66a-43a5-a4b6-07071c30abf7.png">
+# Netflix Clone
+
+This repository contains code for creating a clone of the popular streaming service Netflix. The clone aims to replicate some of the core features and user interface of Netflix.
+
+
+## Demo
+
+Live Link: https://shivam-netflixclone.netlify.app/
+
+## Features
+
+- Browse and search for movies and TV shows
+- Watch trailers and video content
+- Cross platform
+- View detailed information about movies & TV shows
+
+
+## Technology
+The following technologies and frameworks were used in developing this Netflix clone:
+
+- HTML5 and CSS3
+- JavaScript
+- React.js
+- TMDB API for accessing movie and TV show data
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Shivam1272/netflix-clone
+```
+
+Go to the project directory
+
+```bash
+  cd netflix-clone
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Screenshots
+
+![App Screenshot](https://user-images.githubusercontent.com/96972819/226835942-56590e67-f66a-43a5-a4b6-07071c30abf7.png)
+
+
+## Acknowledgements
+
+ - This project is based on the Netflix user interface and aims to replicate its functionality.
+- The TMDB API is used to fetch movie and TV show data. Please refer to their documentation for terms of use and attribution requirements.
+
